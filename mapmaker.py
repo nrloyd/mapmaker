@@ -1,4 +1,4 @@
-#TODO explain this whole thing and author and whatnot
+#Author: Nick Loyd
 
 import math, sys, getopt
 
