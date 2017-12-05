@@ -1,0 +1,352 @@
+1	Location ID	Davidson College	Camera	 	 	 	Lat, Lng: 35.499303, -80.848685 	Davidson, NC US
+2	Location ID	Duquesne University	Camera	 	Comments_old	 	Lat, Lng: 40.437305, -79.991289 	600 Forbes Ave 	Pittsburgh, PA 15282 US
+3	Location ID	Fordham University	Camera	 	Comments_old	 	Lat, Lng: 40.86182, -73.885629 	Bronx, NY US
+4	Location ID	George Mason University	Camera	 	 	 	Lat, Lng: 38.846224, -77.306373 	Fairfax, VA US
+5	Location ID	La Salle University	Camera	 	Comments_old	 	Lat, Lng: 40.03783, -75.152493 	1900 W Olney Ave 	Philadelphia, PA 19141 US
+6	Location ID	Saint Joseph's University	Camera	 	 	 	Lat, Lng: 40.00381, -75.217438 	5600 City Ave 	Philadelphia, PA 19131 US
+7	Location ID	Saint Louis University	Camera	 	Comments_old	 	Lat, Lng: 38.636591, -90.233257 	221 N Grand Blvd 	St Louis, MO 63103 US
+8	Location ID	St. Bonaventure University	Camera	 	 	 	Lat, Lng: 42.077565, -78.429742 	Olean, NY US
+9	Location ID	The George Washington University	Camera	 	 	 	Lat, Lng: 38.900993, -77.047657 	2121 I St NW 	Washington, DC 20037 US
+10	Location ID	University of Dayton	Camera	 	Comments_old	 	Lat, Lng: 39.758948, -84.191607 	Dayton, OH US
+11	Location ID	University of Massachusetts Amherst	Camera	 	 	 	Lat, Lng: 42.380368, -72.523143 	Amherst, MA US
+12	Location ID	University of Rhode Island	Camera	 	 	 	Lat, Lng: 41.480379, -71.52256 	Kingston, RI US
+13	Location ID	University Of Richmond	Camera	Directions	Comments_old	 	Lat, Lng: 37.576859, -77.540446 	28 Westhampton Way 	VA US
+14	Location ID	Virginia Commonwealth University	Camera	Directions	Comments_old	 	Lat, Lng: 37.548394, -77.45227 	1111 West Broad Street 	Richmond, VA US
+15	Location ID	Boston College	Camera	 	 	 	Lat, Lng: 42.350384, -71.18644 	Chestnut Hill, MA US
+16	Location ID	Clemson University	Camera	 	Comments_old	 	Lat, Lng: 34.679419, -82.835073 	Clemson, SC 29631 US
+17	Location ID	Duke University	Camera	 	 	 	Lat, Lng: 36.005168, -78.940276 	450 Research Dr 	Durham, NC 27710 US
+18	Location ID	Florida State University	Camera	 	Comments_old	 	Lat, Lng: 30.440743, -84.290822 	600 W College Ave 	Tallahassee, FL 32304 US
+19	Location ID	Georgia Institute of Technology	Camera	 	Comments_old	 	Lat, Lng: 33.771259, -84.380108 	225 North Avenue NE 	Atlanta, GA 30308 US
+20	Location ID	North Carolina State University	Camera	 	 	 	Lat, Lng: 35.787347, -78.665416 	2200 Hillsborough 	Raleigh, NC 27695 US
+21	Location ID	Syracuse University	Camera	 	Comments_old	 	Lat, Lng: 43.0426, -76.128746 	400 Ostrom Ave 	Syracuse, NY 13210 US
+22	Location ID	University of Louisville	Camera	 	 	 	Lat, Lng: 38.247812, -85.747315 	580 S Preston St 	Louisville, KY 40202 US
+23	Location ID	University of Miami	Camera	 	 	 	Lat, Lng: 25.75, -80.26 	Coral Gables, FL US
+24	Location ID	University of North Carolina at Chapel Hill	Camera	 	Comments_old	 	Lat, Lng: 35.908639, -79.0416 	160 Ridge Rd 	Chapel Hill, NC 27514 US
+25	Location ID	University of Notre Dame	Camera	 	Comments_old	 	Lat, Lng: 41.70767, -86.248238 	IN US
+26	Location ID	University of Pittsburgh	Camera	 	Comments_old	 	Lat, Lng: 40.442725, -79.958597 	Pittsburgh, PA US
+27	Location ID	University of Virginia	Camera	 	Comments_old	 	Lat, Lng: 38.032121, -78.49942 	1215 Lee St 	Charlottesville, VA 22903 US
+28	Location ID	Virginia Tech	Camera	 	 	 	Lat, Lng: 37.230878, -80.434239 	965 Prices Fork Rd 	Blacksburg, VA 24060 US
+29	Location ID	Wake Forest University	Camera	 	 	 	Lat, Lng: 36.13188, -80.280399 	1834 Wake Forest Rd 	Winston-Salem, NC 27106 US
+30	Location ID	East Carolina University	Camera	 	Comments_old	 	Lat, Lng: 35.612661, -77.366354 	Greenville, NC US
+31	Location ID	Southern Methodist University	Camera	 	Comments_old	 	Lat, Lng: 32.842168, -96.780352 	Smu Blvd 	University Park, TX 75205 US
+32	Location ID	Temple University	Camera	 	 	 	Lat, Lng: 39.980271, -75.157053 	1801 N Broad St 	Philadelphia, PA 19122 US
+33	Location ID	Tulane University	Camera	 	 	 	Lat, Lng: 29.954648, -90.075072 	New Orleans, LA US
+34	Location ID	University of Central Florida	Camera	 	Comments_old	 	Lat, Lng: 28.600478, -81.201373 	4000 Central Florida Blvd 	Orlando, FL 32816 US
+35	Location ID	University of Cincinnati	Camera	 	 	 	Lat, Lng: 39.134105, -84.518981 	2624 Clifton Ave 	Cincinnati, OH 45220 US
+36	Location ID	University of Connecticut	Camera	 	Comments_old	 	Lat, Lng: 41.808804, -72.254227 	Mansfield, CT US
+37	Location ID	University of Houston	Camera	 	Comments_old	 	Lat, Lng: 29.718432, -95.339733 	4800 Calhoun Rd 	Houston, TX 77004 US
+38	Location ID	University of Memphis	Camera	 	Comments_old	 	Lat, Lng: 35.117022, -89.939768 	101 John Wilder Tower 	Memphis, TN 38152 US
+39	Location ID	University of South Florida	Camera	 	 	 	Lat, Lng: 28.054571, -82.413227 	4202 E Fowler Ave 	Tampa, FL 33620 US
+40	Location ID	University of Tulsa	Camera	 	 	 	Lat, Lng: 36.153982, -95.992775 	Tulsa, OK US
+41	Location ID	Wichita State University	Camera	 	 	 	Lat, Lng: 37.692236, -97.337545 	Wichita, KS US
+42	Location ID	State University of New York at Albany	Camera	 	Comments_old	 	Lat, Lng: 42.687925, -73.823748 	1400 Washington Ave 	Albany, NY 12206 US
+43	Location ID	State University of New York at Binghamton	Camera	 	 	 	Lat, Lng: 42.09542, -75.967455 	NY US
+44	Location ID	State University of New York at Stony Brook	Camera	 	 	 	Lat, Lng: 40.914234, -73.116266 	100 Nicolls Rd 	Stony Brook, NY 11794 US
+45	Location ID	UMass Lowell	Camera	Directions	 	 	Lat, Lng: 42.643866, -71.33419 	1 University Avenue 	Lowell, MA US
+46	Location ID	University of Hartford	Camera	 	Comments_old	 	Lat, Lng: 41.798, -72.72004 	200 Bloomfield Ave 	West Hartford, CT 6117 US
+47	Location ID	University of Maine	Camera	 	 	 	Lat, Lng: 44.883125, -68.671977 	Orono, ME US
+48	Location ID	University of Maryland, Baltimore County	Camera	 	 	 	Lat, Lng: 39.253059, -76.714268 	1000 Hilltop Rd 	Baltimore, MD 21250 US
+49	Location ID	University of New Hampshire	Camera	 	 	 	Lat, Lng: 43.132977, -70.92154 	Durham, NH US
+50	Location ID	University of Vermont	Camera	 	 	 	Lat, Lng: 44.47755, -73.200288 	85 S Prospect St 	Burlington, VT 5401 US
+51	Location ID	Florida Gulf Coast University	Camera	 	 	 	Lat, Lng: 26.464646, -81.7737 	10501 Fgcu Blvd S 	Fort Myers, FL 33965 US
+52	Location ID	Jacksonville University	Camera	 	 	 	Lat, Lng: 30.359059, -81.606543 	2800 University Blvd N 	Jacksonville, FL 32211 US
+53	Location ID	Kennesaw State University	Camera	 	 	 	Lat, Lng: 34.03552, -84.582067 	1000 Chastain Rd 	Kennesaw, GA 30144 US
+54	Location ID	Lipscomb University	Camera	 	 	 	Lat, Lng: 36.105597, -86.798058 	1 University Park Dr 	Nashville, TN 37215 US
+55	Location ID	New Jersey Institute of Technology	Camera	 	Comments_old	 	Lat, Lng: 40.735657, -74.172367 	Newark, NJ US
+56	Location ID	Stetson University	Camera	 	 	 	Lat, Lng: 29.036794, -81.304701 	421 N Woodland Blvd 	DeLand, FL 32720 US
+57	Location ID	University of North Alabama	 	Directions	 	 	Lat, Lng: 34.807456, -87.681168		
+58	Location ID	University of North Florida	Camera	 	 	 	Lat, Lng: 30.272119, -81.509056 	1 University of North Fl Dr 	Jacksonville, FL 32224 US
+59	Location ID	University of South Carolina Upstate	Camera	 	 	 	Lat, Lng: 34.996858, -81.969568 	800 University Way 	Spartanburg, SC 29303 US
+60	Location ID	Butler University	Camera	Directions	 	 	Lat, Lng: 39.844443, -86.165545 	4600 Sunset Avenue 	Indianapolis, IN US
+61	Location ID	Creighton University	Camera	 	 	 	Lat, Lng: 41.254006, -95.999258 	Omaha, NE US
+62	Location ID	DePaul University	Camera	 	 	 	Lat, Lng: 41.877512, -87.627227 	1 E Jackson Blvd 	Chicago, IL 60604 US
+63	Location ID	Georgetown University	Camera	 	 	 	Lat, Lng: 38.908654, -77.071576 	37th St NW 	Washington, DC 20007 US
+64	Location ID	Marquette University	Camera	 	 	 	Lat, Lng: 43.038739, -87.92828 	1250 W Wisconsin Ave 	Milwaukee, WI 53233 US
+65	Location ID	Providence College	Camera	 	 	 	Lat, Lng: 41.844154, -71.437978 	1 Cunningham Square 	Providence, RI 2908 US
+66	Location ID	Seton Hall University	Camera	 	 	 	Lat, Lng: 40.742608, -74.246206 	400 S Orange Ave 	South Orange, NJ 7079 US
+67	Location ID	St. John's University	Camera	 	 	 	Lat, Lng: 40.723112, -73.794994 	Queens, NY US
+68	Location ID	Villanova University	Camera	 	 	 	Lat, Lng: 40.037029, -75.343316 	Radnor Township, PA US
+69	Location ID	Xavier University	Camera	Directions	 	 	Lat, Lng: 39.149648, -84.473702 	Cincinnati, OH US
+70	Location ID	Baylor University	Camera	 	 	 	Lat, Lng: 31.549333, -97.14667 	Waco, TX US
+71	Location ID	Iowa State University	Camera	 	 	 	Lat, Lng: 42.02335, -93.625622 	Ames, IA US
+72	Location ID	Kansas State University	Camera	 	 	 	Lat, Lng: 39.183608, -96.571669 	Manhattan, KS US
+73	Location ID	Oklahoma State University at Stillwater	Camera	 	 	 	Lat, Lng: 36.115607, -97.058368 	Stillwater, OK US
+74	Location ID	Texas Christian University	Camera	 	Comments_old	 	Lat, Lng: 32.710783, -97.361183 	2800 S University Dr 	Fort Worth, TX 76129 US
+75	Location ID	Texas Tech University	Camera	 	 	 	Lat, Lng: 33.577863, -101.855167 	Lubbock, TX US
+76	Location ID	University of Kansas	Camera	 	 	 	Lat, Lng: 38.971669, -95.23525 	Lawrence, KS US
+77	Location ID	University of Oklahoma	Camera	 	 	 	Lat, Lng: 35.222567, -97.439478 	Norman, OK US
+78	Location ID	University of Texas at Austin	Camera	 	 	 	Lat, Lng: 30.267153, -97.743061 	Austin, TX US
+79	Location ID	West Virginia University	Camera	 	Comments_old	 	Lat, Lng: 39.629526, -79.955897 	Morgantown, WV US
+80	Location ID	California State University, Sacramento	Camera	 	 	 	Lat, Lng: 38.581572, -121.4944 	Sacramento, CA US
+81	Location ID	Eastern Washington University	Camera	 	Comments_old	 	Lat, Lng: 47.48739, -117.575762 	Cheney, WA US
+82	Location ID	Idaho State University	Camera	 	 	 	Lat, Lng: 42.871303, -112.445534 	Pocatello, ID US
+83	Location ID	Montana State University - Bozeman	Camera	 	 	 	Lat, Lng: 45.68346, -111.050499 	Bozeman, MT US
+84	Location ID	Northern Arizona University	Camera	 	 	 	Lat, Lng: 35.198067, -111.651273 	Flagstaff, AZ US
+85	Location ID	Portland State University	Camera	 	 	 	Lat, Lng: 45.513509, -122.684179 	Portland, OR US
+86	Location ID	Southern Utah University	Camera	 	 	 	Lat, Lng: 37.677477, -113.061893 	Cedar City, UT US
+87	Location ID	The University of Montana	Camera	 	 	 	Lat, Lng: 46.872146, -113.993998 	Missoula, MT US
+88	Location ID	University of Idaho	Camera	 	 	 	Lat, Lng: 46.732388, -117.000165 	Moscow, ID US
+89	Location ID	University of Northern Colorado	Camera	 	 	 	Lat, Lng: 40.423314, -104.709132 	Greeley, CO US
+90	Location ID	Weber State University	Camera	 	 	 	Lat, Lng: 41.223, -111.97383 	Ogden, UT US
+91	Location ID	Campbell University	Camera	 	 	 	Lat, Lng: 35.413217, -78.735573 	Buies Creek, NC US
+92	Location ID	Charleston Southern University	Camera	 	Comments_old	 	Lat, Lng: 32.97714, -80.069693 	9200 University Blvd 	North Charleston, SC 29406 US
+93	Location ID	Gardner-Webb University	Camera	 	Comments_old	 	Lat, Lng: 35.205917, -84.009633 	Boiling Springs, NC US
+94	Location ID	High Point University	Camera	 	 	 	Lat, Lng: 35.955692, -80.005318 	High Point, NC US
+95	Location ID	Liberty University	Camera	 	 	 	Lat, Lng: 37.413754, -79.142246 	Lynchburg, VA US
+96	Location ID	Longwood University	Camera	 	 	 	Lat, Lng: 37.302097, -78.39194 	Farmville, VA US
+97	Location ID	Presbyterian College	Camera	 	 	 	Lat, Lng: 34.472628, -81.880656 	Clinton, SC US
+98	Location ID	Radford University	Camera	 	 	 	Lat, Lng: 37.131792, -80.576448 	Radford, VA US
+99	Location ID	University of North Carolina at Asheville	Camera	 	 	 	Lat, Lng: 35.600945, -82.554015 	Asheville, NC US
+100	Location ID	Winthrop University	Camera	 	 	 	Lat, Lng: 34.924867, -81.025078 	Rock Hill, SC US
+101	Location ID	Indiana University Bloomington	Camera	 	 	 	Lat, Lng: 39.165325, -86.526386 	Bloomington, IN US
+102	Location ID	Michigan State University	Camera	 	Comments_month	 	Lat, Lng: 42.736979, -84.483865 	East Lansing, MI US
+103	Location ID	Northwestern University	Camera	 	 	 	Lat, Lng: 42.041141, -87.690059 	Evanston, IL US
+104	Location ID	Pennsylvania State University	Camera	 	 	 	Lat, Lng: 40.793395, -77.860001 	State College, PA US
+105	Location ID	Purdue University	Camera	 	 	 	Lat, Lng: 40.425869, -86.908066 	West Lafayette, IN US
+106	Location ID	Rutgers University	Camera	 	 	 	Lat, Lng: 40.497476, -74.447553 	57 U.S. Highway 1 	New Brunswick, NJ 8901 US
+107	Location ID	The Ohio State University	Camera	 	 	 	Lat, Lng: 39.961176, -82.998794 	Columbus, OH US
+108	Location ID	University of Illinois at Urbana-Champaign	Camera	 	 	 	Lat, Lng: 40.110588, -88.20727 	Urbana, IL US
+109	Location ID	University of Iowa	Camera	 	 	 	Lat, Lng: 41.661128, -91.530168 	Iowa City, IA US
+110	Location ID	University of Maryland, College Park	Camera	 	 	 	Lat, Lng: 38.985986, -76.939774 	1132 Regents Dr 	College Park, MD 20740 US
+111	Location ID	University of Michigan	Camera	 	 	 	Lat, Lng: 42.270872, -83.726329 	Ann Arbor, MI US
+112	Location ID	University of Minnesota Twin Cities	Camera	 	 	 	Lat, Lng: 44.979965, -93.263836 	Minneapolis, MN US
+113	Location ID	University of Nebraska at Lincoln	Camera	 	Comments_old	 	Lat, Lng: 40.806862, -96.681679 	Lincoln, NE US
+114	Location ID	University of Wisconsin at Madison	Camera	 	 	 	Lat, Lng: 43.073052, -89.40123 	Madison, WI US
+115	Location ID	California Polytechnic State University	Camera	 	 	 	Lat, Lng: 35.282752, -120.659616 	San Luis Obispo, CA US
+116	Location ID	California State University, Fullerton	Camera	 	 	 	Lat, Lng: 33.870292, -117.925338 	Fullerton, CA US
+117	Location ID	California State University, Long Beach	Camera	 	 	 	Lat, Lng: 33.766962, -118.189235 	Long Beach, CA US
+118	Location ID	California State University, Northridge	Camera	 	 	 	Lat, Lng: 34.22833, -118.53583 	Northridge, CA US
+119	Location ID	University of California, Davis	Camera	 	 	 	Lat, Lng: 38.544907, -121.740517 	Davis, CA US
+120	Location ID	University of California, Irvine	Camera	 	 	 	Lat, Lng: 33.669465, -117.823111 	Irvine, CA US
+121	Location ID	University of California, Riverside	Camera	 	 	 	Lat, Lng: 33.953349, -117.396156 	Riverside, CA US
+122	Location ID	University of California, Santa Barbara	Camera	 	 	 	Lat, Lng: 34.420831, -119.69819 	Santa Barbara, CA US
+123	Location ID	University of Hawaii	Camera	 	Comments_old	 	Lat, Lng: 21.306944, -157.858333 	Honolulu, HI US
+124	Location ID	College of Charleston	Camera	 	Comments_old	 	Lat, Lng: 32.776566, -79.930922 	Charleston, SC US
+125	Location ID	College of William & Mary	Camera	 	 	 	Lat, Lng: 37.270702, -76.707457 	Williamsburg, VA US
+126	Location ID	Drexel University	Camera	 	 	 	Lat, Lng: 39.952335, -75.163789 	Philadelphia, PA US
+127	Location ID	Elon University	Camera	 	 	 	Lat, Lng: 36.102913, -79.506689 	Elon, NC US
+128	Location ID	Hofstra University	Camera	 	 	 	Lat, Lng: 40.706213, -73.61874 	Hempstead, NY US
+129	Location ID	James Madison University	Camera	 	 	 	Lat, Lng: 38.449569, -78.868916 	Harrisonburg, VA US
+130	Location ID	Northeastern University	 	Directions	 	 	Lat, Lng: 42.339705, -71.089749 	360 Huntington Avenue 	Boston, MA US
+131	Location ID	Towson University	Camera	 	 	 	Lat, Lng: 39.401496, -76.601913 	Towson, MD US
+132	Location ID	University of Delaware	Camera	 	 	 	Lat, Lng: 39.683723, -75.749657 	Newark, DE US
+133	Location ID	University of North Carolina at Wilmington	Camera	 	 	 	Lat, Lng: 34.225726, -77.94471 	Wilmington, NC US
+134	Location ID	Florida Atlantic University	Camera	 	 	 	Lat, Lng: 26.358689, -80.083098 	Boca Raton, FL US
+135	Location ID	Florida International University	Camera	 	 	 	Lat, Lng: 25.774266, -80.193659 	Miami, FL US
+136	Location ID	Louisiana Tech University	Camera	 	 	 	Lat, Lng: 32.523205, -92.637927 	Ruston, LA US
+137	Location ID	Marshall University	Camera	 	 	 	Lat, Lng: 38.41925, -82.445154 	Huntington, WV US
+138	Location ID	Middle Tennessee State University	Camera	 	Comments_old	 	Lat, Lng: 35.845621, -86.39027 	Murfreesboro, TN US
+139	Location ID	Old Dominion University	Camera	 	 	 	Lat, Lng: 36.846815, -76.285218 	Norfolk, VA US
+140	Location ID	Rice University	Camera	 	 	 	Lat, Lng: 29.763284, -95.363272 	Houston, TX US
+141	Location ID	The University of Southern Mississippi	Camera	 	 	 	Lat, Lng: 31.327119, -89.290339 	Hattiesburg, MS US
+142	Location ID	University of Alabama at Birmingham	Camera	 	 	 	Lat, Lng: 33.520661, -86.80249 	Birmingham, AL US
+143	Location ID	University of North Carolina at Charlotte	Camera	 	 	 	Lat, Lng: 35.227087, -80.843127 	Charlotte, NC US
+144	Location ID	University of North Texas	Camera	 	 	 	Lat, Lng: 33.214841, -97.133068 	Denton, TX US
+145	Location ID	University of Texas at El Paso	Camera	 	 	 	Lat, Lng: 31.75872, -106.486931 	El Paso, TX US
+146	Location ID	University of Texas at San Antonio	Camera	 	 	 	Lat, Lng: 29.424122, -98.493628 	San Antonio, TX US
+147	Location ID	Western Kentucky University	Camera	 	 	 	Lat, Lng: 36.99032, -86.443602 	Bowling Green, KY US
+148	Location ID	Cleveland State University	Camera	 	 	 	Lat, Lng: 41.499495, -81.695409 	Cleveland, OH US
+149	Location ID	Indiana University-Purdue University Indianapolis	Camera	 	 	 	Lat, Lng: 39.767016, -86.156255 	Indianapolis, IN US
+150	Location ID	Northern Kentucky University	Camera	Directions	 	 	Lat, Lng: 39.040583, -84.465228 	1 Nunn Dr 	Newport, KY 41076 US
+151	Location ID	Oakland University	Camera	 	 	 	Lat, Lng: 42.680588, -83.133821 	Rochester, MI US
+152	Location ID	University of Detroit Mercy	Camera	 	Comments_old	 	Lat, Lng: 42.331427, -83.045754 	Detroit, MI US
+153	Location ID	University of Illinois at Chicago	Camera	 	 	 	Lat, Lng: 41.850033, -87.650052 	Chicago, IL US
+154	Location ID	University of Wisconsin at Green Bay	Camera	 	 	 	Lat, Lng: 44.519159, -88.019826 	Green Bay, WI US
+155	Location ID	University of Wisconsin at Milwaukee	Camera	 	 	 	Lat, Lng: 43.038903, -87.906474 	Milwaukee, WI US
+156	Location ID	Wright State University	Camera	 	 	 	Lat, Lng: 39.820893, -84.019379 	Fairborn, OH US
+157	Location ID	Youngstown State University	Camera	 	 	 	Lat, Lng: 41.09978, -80.649519 	Youngstown, OH US
+158	Location ID	Brown University	Camera	 	 	 	Lat, Lng: 41.823989, -71.412834 	Providence, RI US
+159	Location ID	Columbia University	Camera	 	 	 	Lat, Lng: 40.714269, -74.005973 	New York, NY US
+160	Location ID	Cornell University	Camera	 	 	 	Lat, Lng: 42.440628, -76.496607 	Ithaca, NY US
+161	Location ID	Dartmouth College	Camera	 	 	 	Lat, Lng: 43.702293, -72.289535 	Hanover, NH US
+162	Location ID	Harvard University	Camera	 	 	 	Lat, Lng: 42.372194, -71.115979 	Cambridge, MA 2138 US
+163	Location ID	Princeton University	Camera	 	 	 	Lat, Lng: 40.348718, -74.659047 	Princeton, NJ US
+164	Location ID	University of Pennsylvania	Camera	 	 	 	Lat, Lng: 39.952335, -75.163789 	Philadelphia, PA US
+165	Location ID	Yale University	Camera	 	 	 	Lat, Lng: 41.308153, -72.928158 	New Haven, CT US
+166	Location ID	Ball State University	Camera	 	 	 	Lat, Lng: 40.193377, -85.38636 	Muncie, IN US
+167	Location ID	Bowling Green State University	Camera	 	 	 	Lat, Lng: 41.374774, -83.651323 	Bowling Green, OH US
+168	Location ID	Central Michigan University	Camera	 	 	 	Lat, Lng: 43.597808, -84.767514 	Mount Pleasant, MI US
+169	Location ID	Eastern Michigan University	Camera	 	 	 	Lat, Lng: 42.24115, -83.612994 	Ypsilanti, MI US
+170	Location ID	Kent State University	Camera	 	 	 	Lat, Lng: 41.153667, -81.357886 	Kent, OH US
+171	Location ID	Miami University	Camera	 	 	 	Lat, Lng: 39.506997, -84.745231 	Oxford, OH US
+172	Location ID	Northern Illinois University	Camera	 	 	 	Lat, Lng: 41.929474, -88.750365 	DeKalb, IL US
+173	Location ID	Ohio University	Camera	 	 	 	Lat, Lng: 39.32924, -82.101255 	Athens, OH US
+174	Location ID	State University of New York at Buffalo	Camera	 	 	 	Lat, Lng: 42.886447, -78.878369 	Buffalo, NY US
+175	Location ID	University of Akron	Camera	 	 	 	Lat, Lng: 41.081445, -81.519005 	Akron, OH US
+176	Location ID	University of Toledo	Camera	 	 	 	Lat, Lng: 41.663938, -83.555212 	Toledo, OH US
+177	Location ID	Western Michigan University	Camera	 	 	 	Lat, Lng: 42.291707, -85.587229 	Kalamazoo, MI US
+178	Location ID	Canisius College	Camera	 	 	 	Lat, Lng: 42.886447, -78.878369 	Buffalo, NY US
+179	Location ID	Fairfield University	Camera	 	 	 	Lat, Lng: 41.141208, -73.263726 	Fairfield, CT US
+180	Location ID	Iona College	Camera	 	 	 	Lat, Lng: 40.911488, -73.782355 	New Rochelle, NY US
+181	Location ID	Manhattan College	Camera	 	 	 	Lat, Lng: 40.90056, -73.90639 	Bronx, NY US
+182	Location ID	Marist College	Camera	 	 	 	Lat, Lng: 41.700371, -73.92097 	Poughkeepsie, NY US
+183	Location ID	Monmouth University	Camera	 	Comments_old	 	Lat, Lng: 40.290389, -74.017638 	West Long Branch, NJ US
+184	Location ID	Niagara University	Camera	 	 	 	Lat, Lng: 43.172555, -79.035878 	Lewiston, NY US
+185	Location ID	Quinnipiac University	Camera	 	 	 	Lat, Lng: 41.39593, -72.896768 	Hamden, CT US
+186	Location ID	Rider University	Camera	 	 	 	Lat, Lng: 40.3014, -74.730154 	Lawrenceville, NJ US
+187	Location ID	Saint Peter's College	Camera	 	 	 	Lat, Lng: 40.728158, -74.077642 	Jersey City, NJ US
+188	Location ID	Siena College	Camera	 	 	 	Lat, Lng: 42.704801, -73.754842 	Loudonville, NY US
+189	Location ID	Bethune-Cookman University	Camera	 	 	 	Lat, Lng: 29.210815, -81.022833 	Daytona Beach, FL US
+190	Location ID	Coppin State University	Camera	 	 	 	Lat, Lng: 39.290385, -76.612189 	Baltimore, MD US
+191	Location ID	Delaware State University	Camera	 	 	 	Lat, Lng: 39.158168, -75.524368 	Dover, DE US
+192	Location ID	Florida A&M University	Camera	 	 	 	Lat, Lng: 30.438256, -84.280733 	Tallahassee, FL US
+193	Location ID	Hampton University	Camera	 	 	 	Lat, Lng: 37.029869, -76.345222 	Hampton, VA US
+194	Location ID	Howard University	Camera	 	 	 	Lat, Lng: 38.895112, -77.036366 	Washington, DC US
+195	Location ID	Morgan State University	Camera	 	 	 	Lat, Lng: 39.290385, -76.612189 	Baltimore, MD US
+196	Location ID	Norfolk State University	Camera	 	 	 	Lat, Lng: 36.846815, -76.285218 	Norfolk, VA US
+197	Location ID	North Carolina Agricultural and Technical State University	Camera	 	 	 	Lat, Lng: 36.072635, -79.791975 	Greensboro, NC US
+198	Location ID	North Carolina Central University	Camera	 	 	 	Lat, Lng: 35.994033, -78.898619 	Durham, NC US
+199	Location ID	South Carolina State University	Camera	 	 	 	Lat, Lng: 33.49182, -80.855648 	Orangeburg, SC US
+200	Location ID	University of Maryland Eastern Shore	Camera	 	 	 	Lat, Lng: 38.202899, -75.692427 	Princess Anne, MD US
+201	Location ID	Bradley University	Camera	 	 	 	Lat, Lng: 40.693649, -89.588986 	Peoria, IL US
+202	Location ID	Drake University	Camera	 	 	 	Lat, Lng: 41.600545, -93.609106 	Des Moines, IA US
+203	Location ID	Illinois State University	Camera	 	Comments_old	 	Lat, Lng: 40.514203, -88.990631 	Normal, IL US
+204	Location ID	Indiana State University	Camera	 	 	 	Lat, Lng: 39.466703, -87.413909 	Terre Haute, IN US
+205	Location ID	Loyola University Chicago	Camera	 	 	 	Lat, Lng: 41.850033, -87.650052 	Chicago, IL US
+206	Location ID	Missouri State University	Camera	 	 	 	Lat, Lng: 37.215326, -93.298244 	Springfield, MO US
+207	Location ID	Southern Illinois University Carbondale	Camera	 	 	 	Lat, Lng: 37.727273, -89.21675 	Carbondale, IL US
+208	Location ID	University of Evansville	Camera	 	 	 	Lat, Lng: 37.974764, -87.555848 	Evansville, IN US
+209	Location ID	University of Northern Iowa	Camera	 	 	 	Lat, Lng: 42.527762, -92.445465 	Cedar Falls, IA US
+210	Location ID	Valparaiso University	Camera	 	 	 	Lat, Lng: 41.473095, -87.061141 	Valparaiso, IN US
+211	Location ID	Boise State University	Camera	 	Comments_old	 	Lat, Lng: 43.6135, -116.203451 	Boise, ID US
+212	Location ID	California State University, Fresno	Camera	 	 	 	Lat, Lng: 36.747727, -119.772366 	Fresno, CA US
+213	Location ID	Colorado State University	Camera	 	 	 	Lat, Lng: 40.58526, -105.084423 	Fort Collins, CO US
+214	Location ID	San Diego State University	Camera	 	 	 	Lat, Lng: 32.715329, -117.157255 	5500 Campanile Drive 	San Diego, CA 92182 US
+215	Location ID	San Jose State University	Camera	 	 	 	Lat, Lng: 37.339386, -121.894956 	San Jose, CA US
+216	Location ID	United States Air Force Academy	Camera	 	 	 	Lat, Lng: 38.833882, -104.821363 	Colorado Springs, CO US
+217	Location ID	University of Nevada, Las Vegas	Camera	 	 	 	Lat, Lng: 36.114646, -115.172816 	Las Vegas, NV US
+218	Location ID	University of Nevada, Reno	Camera	 	 	 	Lat, Lng: 39.529633, -119.813803 	Reno, NV US
+219	Location ID	University of New Mexico	Camera	 	 	 	Lat, Lng: 35.084491, -106.651137 	Albuquerque, NM US
+220	Location ID	University of Wyoming	Camera	 	 	 	Lat, Lng: 41.311367, -105.591101 	Laramie, WY US
+221	Location ID	Utah State University	Camera	 	 	 	Lat, Lng: 41.735486, -111.834388 	Logan, UT US
+222	Location ID	Bryant University	Camera	 	 	 	Lat, Lng: 41.922043, -71.549507 	Smithfield, RI US
+223	Location ID	Central Connecticut State University	Camera	 	Comments_old	 	Lat, Lng: 41.66121, -72.779542 	New Britain, CT US
+224	Location ID	Fairleigh Dickinson University	Camera	 	 	 	Lat, Lng: 40.885933, -74.043474 	Hackensack, NJ US
+225	Location ID	Long Island University-Brooklyn	Camera	 	 	 	Lat, Lng: 40.650104, -73.949582 	Brooklyn, NY US
+226	Location ID	Mount Saint Mary's University	Camera	 	 	 	Lat, Lng: 39.704542, -77.326931 	Emmitsburg, MD US
+227	Location ID	Robert Morris University	Camera	 	 	 	Lat, Lng: 40.511858, -80.198665 	Allegheny, PA US
+228	Location ID	Sacred Heart University	Camera	 	 	 	Lat, Lng: 41.141208, -73.263726 	Fairfield, CT US
+229	Location ID	Saint Francis University	Camera	 	 	 	Lat, Lng: 40.503126, -78.630296 	Loretto, PA US
+230	Location ID	St. Francis College	Camera	 	 	 	Lat, Lng: 40.650104, -73.949582 	Brooklyn, NY US
+231	Location ID	Wagner College	Camera	 	 	 	Lat, Lng: 40.583438, -74.149588 	Staten Island, NY US
+232	Location ID	Austin Peay State University	Camera	 	 	 	Lat, Lng: 36.529771, -87.359453 	Clarksville, TN US
+233	Location ID	Belmont University	Camera	 	Comments_old	 	Lat, Lng: 36.16589, -86.784443 	Nashville, TN US
+234	Location ID	Eastern Illinois University	Camera	 	 	 	Lat, Lng: 39.496146, -88.176152 	Charleston, IL US
+235	Location ID	Eastern Kentucky University	Camera	 	 	 	Lat, Lng: 37.747857, -84.294654 	Richmond, KY US
+236	Location ID	Jacksonville State University	Camera	 	 	 	Lat, Lng: 33.813713, -85.761354 	Jacksonville, AL US
+237	Location ID	Morehead State University	Camera	 	 	 	Lat, Lng: 38.183971, -83.432684 	Morehead, KY US
+238	Location ID	Murray State University	Camera	 	 	 	Lat, Lng: 36.610333, -88.314761 	Murray, KY US
+239	Location ID	Southeast Missouri State University	Camera	 	 	 	Lat, Lng: 37.305884, -89.518148 	Cape Girardeau, MO US
+240	Location ID	Southern Illinois University Edwardsville	Camera	 	 	 	Lat, Lng: 38.811436, -89.953157 	Edwardsville, IL US
+241	Location ID	Tennessee State University	Camera	 	 	 	Lat, Lng: 36.16589, -86.784443 	Nashville, TN US
+242	Location ID	Tennessee Technological University	Camera	 	 	 	Lat, Lng: 36.162839, -85.501642 	Cookeville, TN US
+243	Location ID	University of Tennessee at Martin	Camera	 	 	 	Lat, Lng: 36.343397, -88.850338 	Martin, TN US
+244	Location ID	Arizona State University	Camera	 	 	 	Lat, Lng: 33.414768, -111.90931 	Tempe, AZ US
+245	Location ID	Oregon State University	Camera	 	Comments_old	 	Lat, Lng: 44.564566, -123.262044 	Corvallis, OR US
+246	Location ID	Stanford University	Camera	 	 	 	Lat, Lng: 37.441883, -122.14302 	Palo Alto, CA US
+247	Location ID	University of Arizona	Camera	 	 	 	Lat, Lng: 32.221743, -110.926479 	Tucson, AZ US
+248	Location ID	University of California, Berkeley	Camera	 	 	 	Lat, Lng: 37.871593, -122.272747 	Berkeley, CA US
+249	Location ID	University of California, Los Angeles	Camera	 	 	 	Lat, Lng: 34.052234, -118.243685 	405 Hilgard Avenue 	Los Angeles, CA 90095 US
+250	Location ID	University of Colorado at Boulder	Camera	 	 	 	Lat, Lng: 40.014986, -105.270546 	Boulder, CO US
+251	Location ID	University of Oregon	Camera	 	Comments_old	 	Lat, Lng: 44.052069, -123.086754 	Eugene, OR US
+252	Location ID	University of Southern California	Camera	 	 	 	Lat, Lng: 34.052234, -118.243685 	850 West 37th Street 	Los Angeles, CA 90089 US
+253	Location ID	University of Utah	Camera	 	Comments_old	 	Lat, Lng: 40.760779, -111.891047 	Salt Lake City, UT US
+254	Location ID	University of Washington	Camera	 	 	 	Lat, Lng: 47.60621, -122.332071 	Seattle, WA US
+255	Location ID	Washington State University	Camera	 	 	 	Lat, Lng: 46.731275, -117.179616 	Pullman, WA US
+256	Location ID	American University	Camera	 	Comments_old	 	Lat, Lng: 38.895112, -77.036366 	Washington, DC US
+257	Location ID	Boston University	Camera	 	 	 	Lat, Lng: 42.349705, -71.099955 	1 Silber Way 	Boston, MA 2215 US
+258	Location ID	Bucknell University	Camera	 	 	 	Lat, Lng: 40.964529, -76.88441 	Lewisburg, PA US
+259	Location ID	Colgate University	Camera	 	 	 	Lat, Lng: 42.827014, -75.544624 	Hamilton, NY US
+260	Location ID	College of the Holy Cross	Camera	 	 	 	Lat, Lng: 42.262593, -71.802293 	Worcester, MA US
+261	Location ID	Lafayette College	Camera	 	 	 	Lat, Lng: 40.688432, -75.220732 	Easton, PA US
+262	Location ID	Lehigh University	Camera	 	 	 	Lat, Lng: 40.625932, -75.370458 	Bethlehem, PA US
+263	Location ID	Loyola College in Maryland	Camera	 	 	 	Lat, Lng: 39.290385, -76.612189 	Baltimore, MD US
+264	Location ID	United States Military Academy	Camera	 	 	 	Lat, Lng: 41.391483, -73.955972 	West Point, NY US
+265	Location ID	United States Naval Academy	Camera	 	 	 	Lat, Lng: 38.9767, -76.489934 	Annapolis, MD US
+266	Location ID	Auburn University	Camera	 	 	 	Lat, Lng: 32.609857, -85.480783 	Auburn, AL US
+267	Location ID	Louisiana State University	Camera	 	Comments_old	 	Lat, Lng: 30.450746, -91.154551 	Baton Rouge, LA US
+268	Location ID	Mississippi State University	Camera	 	 	 	Lat, Lng: 33.4504, -88.818387 	Starkville, MS US
+269	Location ID	Texas A&M University	Camera	 	Comments_old	 	Lat, Lng: 30.627977, -96.334407 	College Station, TX US
+270	Location ID	University of Alabama	Camera	 	 	 	Lat, Lng: 33.209841, -87.569174 	Tuscaloosa, AL US
+271	Location ID	University of Arkansas	Camera	 	 	 	Lat, Lng: 36.06258, -94.157426 	Fayetteville, AR US
+272	Location ID	University of Florida	Camera	 	Comments_old	 	Lat, Lng: 29.651634, -82.324826 	Gainesville, FL US
+273	Location ID	University of Georgia	Camera	 	 	 	Lat, Lng: 33.960948, -83.377936 	Athens, GA US
+274	Location ID	University of Kentucky	Camera	 	 	 	Lat, Lng: 37.988689, -84.477715 	Lexington, KY US
+275	Location ID	University of Mississippi	Camera	 	 	 	Lat, Lng: 34.366495, -89.519248 	Oxford, MS US
+276	Location ID	University of Missouri	Camera	 	 	 	Lat, Lng: 38.951705, -92.334072 	Columbia, MO US
+277	Location ID	University of South Carolina	Camera	 	 	 	Lat, Lng: 34.00071, -81.034814 	Columbia, SC US
+278	Location ID	University of Tennessee	Camera	 	 	 	Lat, Lng: 35.960638, -83.920739 	Knoxville, TN US
+279	Location ID	Vanderbilt University	Camera	 	 	 	Lat, Lng: 36.16589, -86.784443 	Nashville, TN US
+280	Location ID	East Tennessee State University	Camera	 	 	 	Lat, Lng: 36.304638, -82.363034 	807 University Pkwy 	Johnson City, TN 37604 US
+281	Location ID	Furman University	Camera	 	 	 	Lat, Lng: 34.852618, -82.39401 	Greenville, SC US
+282	Location ID	Mercer University	Camera	 	Comments_old	 	Lat, Lng: 32.831362, -83.647642 	1400 Coleman Ave 	Macon, GA 31201 US
+283	Location ID	Samford University	Camera	 	 	 	Lat, Lng: 33.471773, -86.800823 	Homewood, AL US
+284	Location ID	The Citadel	Camera	 	 	 	Lat, Lng: 32.776566, -79.930922 	Charleston, SC US
+285	Location ID	University of North Carolina at Greensboro	Camera	 	 	 	Lat, Lng: 36.072635, -79.791975 	Greensboro, NC US
+286	Location ID	University of Tennessee at Chattanooga	Camera	 	 	 	Lat, Lng: 35.04563, -85.30968 	Chattanooga, TN US
+287	Location ID	Virginia Military Institute	Camera	 	 	 	Lat, Lng: 37.784021, -79.442816 	Lexington, VA US
+288	Location ID	Western Carolina University	Camera	 	 	 	Lat, Lng: 35.313711, -83.176533 	Cullowhee, NC US
+289	Location ID	Wofford College	Camera	 	 	 	Lat, Lng: 34.949567, -81.932048 	Spartanburg, SC US
+290	Location ID	Abilene Christian University	Camera	Directions	 	 	Lat, Lng: 32.471081, -99.707941 	Abilene, TX US
+291	Location ID	Houston Baptist University	Camera	 	Comments_old	 	Lat, Lng: 29.763284, -95.363272 	Houston, TX US
+292	Location ID	Lamar University	Camera	 	 	 	Lat, Lng: 30.086046, -94.101846 	Beaumont, TX US
+293	Location ID	McNeese State University	Camera	 	 	 	Lat, Lng: 30.226595, -93.217376 	Lake Charles, LA US
+294	Location ID	Nicholls State University	Camera	 	 	 	Lat, Lng: 29.795763, -90.822871 	Thibodaux, LA US
+295	Location ID	Northwestern State University	Camera	 	 	 	Lat, Lng: 31.76072, -93.086275 	Natchitoches, LA US
+296	Location ID	Sam Houston State University	Camera	 	 	 	Lat, Lng: 30.723526, -95.550777 	Huntsville, TX US
+297	Location ID	Southeastern Louisiana University	Camera	 	 	 	Lat, Lng: 30.504358, -90.4612 	Hammond, LA US
+298	Location ID	Stephen F. Austin State University	Camera	 	 	 	Lat, Lng: 31.603513, -94.655487 	Nacogdoches, TX US
+299	Location ID	Texas A&M University at Corpus Christi	Camera	 	 	 	Lat, Lng: 27.800583, -97.396381 	Corpus Christi, TX US
+300	Location ID	University of Central Arkansas	Camera	 	 	 	Lat, Lng: 35.088696, -92.442101 	Conway, AR US
+301	Location ID	University of New Orleans	Camera	Directions	 	 	Lat, Lng: 30.028976, -90.067303 	2000 Lakeshore Drive 	New Orleans, LA US
+302	Location ID	University Of The Incarnate Word	Camera	Directions	 	 	Lat, Lng: 29.468258, -98.4719 	4301 Broadway St 	San Antonio, TX US
+303	Location ID	North Dakota State University	Camera	 	 	 	Lat, Lng: 46.877186, -96.789803 	Fargo, ND US
+304	Location ID	Oral Roberts University	Camera	 	Comments_old	 	Lat, Lng: 36.153982, -95.992775 	Tulsa, OK US
+305	Location ID	Purdue University - Fort Wayne	Camera	 	 	 	Lat, Lng: 41.130604, -85.12886 	Fort Wayne, IN US
+306	Location ID	South Dakota State University	Camera	 	 	 	Lat, Lng: 44.311357, -96.798388 	Brookings, SD US
+307	Location ID	University of Denver	Camera	 	 	 	Lat, Lng: 39.739154, -104.984703 	Denver, CO US
+308	Location ID	University of Nebraska at Omaha	Camera	Directions	 	 	Lat, Lng: 41.25772, -96.010363 	1110 South 67th Street 	Omaha, NE US
+309	Location ID	University of North Dakota	Camera	 	 	 	Lat, Lng: 47.925257, -97.032855 	Grand Forks, ND US
+310	Location ID	University of South Dakota	Camera	 	 	 	Lat, Lng: 42.779442, -96.92921 	Vermillion, SD US
+311	Location ID	Western Illinois University	Camera	 	 	 	Lat, Lng: 40.459208, -90.671797 	Macomb, IL US
+312	Location ID	Appalachian State University	Camera	 	 	 	Lat, Lng: 36.220364, -81.686965 	Boone, NC US
+313	Location ID	Arkansas State University	Camera	 	 	 	Lat, Lng: 35.842297, -90.704279 	Jonesboro, AR US
+314	Location ID	Coastal Carolina University	Camera	 	 	 	Lat, Lng: 33.836003, -79.047814 	Conway, SC US
+315	Location ID	Georgia Southern University	Camera	 	 	 	Lat, Lng: 32.448788, -81.783167 	Statesboro, GA US
+316	Location ID	Georgia State University	Camera	 	 	 	Lat, Lng: 33.748995, -84.387982 	Atlanta, GA US
+317	Location ID	Texas State University at San Marcos	Camera	 	 	 	Lat, Lng: 29.883275, -97.941394 	San Marcos, TX US
+318	Location ID	Troy University	Camera	 	 	 	Lat, Lng: 31.808768, -85.969951 	Troy, AL US
+319	Location ID	University of Arkansas at Little Rock	Camera	 	 	 	Lat, Lng: 34.746481, -92.289595 	Little Rock, AR US
+320	Location ID	University of Louisiana at Lafayette	Camera	 	 	 	Lat, Lng: 30.22409, -92.019843 	Lafayette, LA US
+321	Location ID	University of Louisiana at Monroe	Camera	 	 	 	Lat, Lng: 32.509311, -92.119301 	Monroe, LA US
+322	Location ID	University of South Alabama	Camera	 	 	 	Lat, Lng: 30.694357, -88.043054 	Mobile, AL US
+323	Location ID	University of Texas at Arlington	Camera	 	 	 	Lat, Lng: 32.735687, -97.108066 	Arlington, TX US
+324	Location ID	Alabama Agricultural and Mechanical University	Camera	 	 	 	Lat, Lng: 34.788979, -86.571937 	Normal, AL US
+325	Location ID	Alabama State University	Camera	 	 	 	Lat, Lng: 32.366805, -86.299969 	Montgomery, AL US
+326	Location ID	Alcorn State University	Camera	 	 	 	Lat, Lng: 31.82044, -91.050106 	Lorman, MS US
+327	Location ID	Grambling State University	Camera	 	 	 	Lat, Lng: 32.52765, -92.71404 	Grambling, LA US
+328	Location ID	Jackson State University	Camera	 	 	 	Lat, Lng: 32.298757, -90.18481 	Jackson, MS US
+329	Location ID	Mississippi Valley State University	Camera	 	 	 	Lat, Lng: 33.49512, -90.319807 	Itta Bena, MS US
+330	Location ID	Prairie View A&M University	Camera	 	 	 	Lat, Lng: 30.093274, -95.987734 	Prairie View, TX US
+331	Location ID	Southern University	Camera	 	 	 	Lat, Lng: 30.450746, -91.154551 	Baton Rouge, LA US
+332	Location ID	Texas Southern University	Camera	 	 	 	Lat, Lng: 29.763284, -95.363272 	Houston, TX US
+333	Location ID	University of Arkansas Pine Bluff	Camera	 	 	 	Lat, Lng: 34.228431, -92.003196 	Pine Bluff, AR US
+334	Location ID	California Baptist University	 	Directions	 	 	Lat, Lng: 33.928407, -117.42556
+335	Location ID	California State University, Bakersfield	Camera	 	 	 	Lat, Lng: 35.373292, -119.018713 	Bakersfield, CA US
+336	Location ID	Chicago State University	Camera	 	 	 	Lat, Lng: 41.850033, -87.650052 	Chicago, IL US
+337	Location ID	Grand Canyon University	Camera	Directions	 	 	Lat, Lng: 33.511994, -112.129608 	3300 West Camelback Road 	Phoenix, AZ US
+338	Location ID	New Mexico State University	Camera	 	 	 	Lat, Lng: 32.312316, -106.778337 	Las Cruces, NM US
+339	Location ID	Seattle University	Camera	 	 	 	Lat, Lng: 47.60621, -122.332071 	Seattle, WA US
+340	Location ID	University of Missouri at Kansas City	Camera	 	 	 	Lat, Lng: 39.099727, -94.578567 	Kansas City, MO US
+341	Location ID	University of Texas at Pan American	Camera	 	 	 	Lat, Lng: 26.301737, -98.163343 	Edinburg, TX US
+342	Location ID	Utah Valley University	Camera	 	 	 	Lat, Lng: 40.296898, -111.694648 	Orem, UT US
+343	Location ID	Brigham Young University	Camera	 	 	 	Lat, Lng: 40.233844, -111.658534 	Provo, UT US
+344	Location ID	Gonzaga University	Camera	 	 	 	Lat, Lng: 47.65878, -117.426047 	Spokane, WA US
+345	Location ID	Loyola Marymount University	 	Directions	 	 	Lat, Lng: 33.966309, -118.422966 	1 Loyola Marymount University Dr 	Los Angeles County, CA 90045 US
+346	Location ID	Pepperdine University	Camera	 	 	 	Lat, Lng: 34.005008, -118.810089 	Malibu, CA US
+347	Location ID	Saint Mary's College of California	Camera	 	 	 	Lat, Lng: 37.834926, -122.129687 	Moraga, CA US
+348	Location ID	Santa Clara University	Camera	 	 	 	Lat, Lng: 37.354108, -121.955236 	Santa Clara, CA US
+349	Location ID	University of Portland	Camera	 	 	 	Lat, Lng: 45.523452, -122.676207 	5000 North Willamette Boulevard 	Portland, OR 97203 US
+350	Location ID	University of San Diego	Camera	 	 	 	Lat, Lng: 32.715329, -117.157255 	5998 Alcala Park 	San Diego, CA US
+351	Location ID	University of San Francisco	Camera	 	 	 	Lat, Lng: 37.77493, -122.419416 	2130 Fulton Street 	San Francisco, CA US
+352	Location ID	University of the Pacific	Camera	 	Comments_old	 	Lat, Lng: 37.957702, -121.29078 	Stockton, CA US

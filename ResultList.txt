@@ -1,0 +1,33 @@
+Howard Lady Bison	Penn State Nittany Lions
+VCU Rams	Pittsburgh Panthers 
+Kansas Jayhawks	Missouri Tigers
+Radford Highlanders	Wichita State Shockers
+Coastal Carolina Chanticleers	Creighton Bluejays
+Missouri State Lady Bears	Michigan State Spartans
+Hawaii Rainbow Wahine	Illinois Fighting Illini
+LIU Brooklyn Blackbirds	Washington Huskies
+Stony Brook Seawolves	Nebraska Cornhuskers
+Florida State Seminoles	Washington State Cougars
+James Madison Dukes	Colorado Buffaloes
+Miami RedHawks	Baylor Lady Bears
+American Eagles	Brigham Young University Cougars
+Kennesaw State Owls	Oregon Ducks
+Notre Dame Fighting Irish	Western Kentucky Lady Toppers
+East Tennessee State Buccaneers	Kentucky Wildcats
+CSU Bakersfield Roadrunners	Stanford Cardinal
+Michigan Wolverines	Colorado State Rams
+Marquette Golden Eagles	Wisconsin Badgers
+Princeton Tigers	Iowa State Cyclones
+Cleveland State Vikings	Utah Utes
+High Point Panthers	Purdue Boilermakers
+Oregon State Beavers	NC State Wolfpack
+Fairfield Stags	Texas Longhorns
+North Dakota Fighting Hawks	Minnesota Golden Gophers
+Louisville Cardinals	Northern Iowa Panthers
+LSU Lady Tigers	San Diego Toreros
+Central Arkansas Sugar Bears	USC Trojans
+Austin Peay Governors	UCLA Bruins
+Denver Pioneers	Cal Poly Mustangs
+College of Charleston Cougars	Miami Hurricanes
+Alabama State Lady Hornets	Florida Gators
+Pittsburgh Panthers	Penn State Nittany LionsWichita State Shockers	Missouri TigersCreighton Bluejays	Michigan State SpartansWashington Huskies	Illinois Fighting IlliniWashington State Cougars	Nebraska CornhuskersBaylor Lady Bears	Colorado BuffaloesOregon Ducks	Brigham Young University CougarsWestern Kentucky Lady Toppers	Kentucky WildcatsColorado State Rams	Stanford CardinalIowa State Cyclones	Wisconsin BadgersPurdue Boilermakers	Utah UtesNC State Wolfpack	Texas LonghornsNorthern Iowa Panthers	Minnesota Golden GophersSan Diego Toreros	USC TrojansCal Poly Mustangs	UCLA BruinsMiami Hurricanes	Florida Gators
