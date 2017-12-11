@@ -40,7 +40,7 @@ class Territory:
             self.places.extend(other.places)
             self.population += other.population
             self.area += other.area
-            self.numterritories += other.territories
+            self.numterritories += other.numterritories
             other.places = []
             other.population = 0
             other.area = 0

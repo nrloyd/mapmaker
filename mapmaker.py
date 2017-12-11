@@ -120,7 +120,7 @@ def main(argv):
             if dist < leastdist:
                 leastdist = dist
                 closestcenter = terrs[t]
-        closestcenter.addplace(words[0], int(words[1]), float(words[2]))
+        closestcenter.addplace(words[0], int(words[1]), float(words[4]))
     strs = []
     
     #transfer territories from results
