@@ -12,9 +12,12 @@ class Territory:
     population = 0
     area = 0
     numterritories = 0
-
+    
     def __init__(self, **kw):
+        
+        #the list of places within the territory is initially empty
         self.places = []
+        #numterritories keeps track of how many original territories have had their land transferred to make up the current territory
         self.numterritories = 1
         for attr in kw:
             try:
@@ -23,18 +26,13 @@ class Territory:
             except:
                 raise KeyError("Unsupported argument %s!" % attr)
 
+    #adds one place to the territory, updating the territory's list of places, total population, and total area
     def addplace(self, placename, pop, are):
         self.places.append(placename)
         self.population += pop
         self.area += are
-        
 
-    #TODO figure out if this is needed at all
-    #def moveplace(self, placename, other):
-    #    self.places.remove(placename)
-    #    other.addplace(placename)
-
-    #adds all places in other to self
+    #adds all places in other to self, then update the population, area, etc. of both territories to reflect the changes
     def absorb(self, other):
         if len(other.places) != 0:
             self.places.extend(other.places)
@@ -45,7 +43,7 @@ class Territory:
             other.population = 0
             other.area = 0
             other.numterritories = 0
-
+    
     def __str__(self):
         return '"' + self.color + '"' + ':{"div":"#box' + str(self.boxnumber) + '","label":"' + self.name + '","paths":["' + '","'.join(self.places) + '"]}'
 
@@ -65,13 +63,15 @@ def greatcircledistance(latuno, longuno, latdos, longdos):
 
 def main(argv):
 
-    #open all the files
+    #open all of the input and output files
     input = open("CountyList.txt") #list of all counties, states, countries, etc.
     output = open("MapFile.txt","w") #output file for mapchart
     guide = open("CenterList.txt") #list of territory centers
     isresults = False
     results = open("ResultList.txt") #list of territory transfers
     printstuff = False
+    
+    #process command line options, opening the necessary files
     try:
         opts, args = getopt.getopt(argv, "hpi:g:o:r:", ["ifile=","gfile=","ofile=","rfile="])
     except getopt.GetoptError:
@@ -93,7 +93,7 @@ def main(argv):
          isresults = True
          results = open(arg)
 
-    #populate lists of territories and places
+    #populate list of territories
     input.readline()
     terrs = {}
     centers = []
