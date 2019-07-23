@@ -1,6 +1,6 @@
 #Author: Nick Loyd
 
-import math, sys, getopt
+import math, sys, getopt, webbrowser
 
 #contains the latitude and longitude of the center of the territory, around which it is situated. contains a list of places that make up the territory
 class Territory:
@@ -166,10 +166,12 @@ def main(argv):
         poptup = sorted(poptup, key = lambda tup: tup[1], reverse = True)
         for x in poptup:
               print(x[0], x[1])
-        print("Teams by number of territories:")
-        terrtup = sorted(terrtup, key = lambda tup: tup[1], reverse = True)
-        for x in terrtup:
-              print(x[0], x[1])
+        if(isresults):
+              print("Teams by number of territories:")
+              terrtup = sorted(terrtup, key = lambda tup: tup[1], reverse = True)
+              for x in terrtup:
+                  print(x[0], x[1])
+        #webbrowser.open(
 
 if __name__ == "__main__":
    main(sys.argv[1:])
