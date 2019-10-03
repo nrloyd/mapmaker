@@ -63,6 +63,10 @@ def greatcircledistance(latuno, longuno, latdos, longdos):
     d = a * step3
     return d
 
+def open_webpage(path = "usa-counties.html"):
+    urlpath = "https://mapchart.net/" + path
+    webbrowser.open(urlpath)
+
 def main(argv):
 
     #open all the files
@@ -171,7 +175,6 @@ def main(argv):
               terrtup = sorted(terrtup, key = lambda tup: tup[1], reverse = True)
               for x in terrtup:
                   print(x[0], x[1])
-        #webbrowser.open(
 
 if __name__ == "__main__":
    main(sys.argv[1:])
