@@ -70,11 +70,11 @@ def open_webpage(path = "usa-counties.html"):
 def main(argv):
 
     #open all the files
-    input = open("CountyList.txt") #list of all counties, states, countries, etc.
-    output = open("MapFile.txt","w") #output file for mapchart
-    guide = open("CenterList.txt") #list of territory centers
+    input = open("place_lists/CountyList.txt") #list of all counties, states, countries, etc.
+    output = open("output_files/MapFile.txt","w") #output file for mapchart
+    guide = open("center_lists/CenterList.txt") #list of territory centers
     isresults = False
-    results = open("ResultList.txt") #list of territory transfers
+    results = open("result_files/ResultList.txt") #list of territory transfers
     printstuff = False
     try:
         opts, args = getopt.getopt(argv, "hpi:g:o:r:", ["ifile=","gfile=","ofile=","rfile="])
@@ -88,14 +88,14 @@ def main(argv):
       elif opt == '-p':
           printstuff = True
       elif opt in ("-i", "--ifile"):
-         input = open(arg)
+         input = open("place_lists/" + arg)
       elif opt in ("-g", "--gfile"):
-         guide = open(arg)
+         guide = open("output_files/" + arg)
       elif opt in ("-o", "--ofile"):
-         output = open(arg)
+         output = open("center_lists/" + arg)
       elif opt in ("-r", "--rfile"):
          isresults = True
-         results = open(arg)
+         results = open("result_files" + arg)
 
     #populate lists of territories and places
     input.readline()
