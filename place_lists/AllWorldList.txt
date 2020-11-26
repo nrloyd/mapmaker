@@ -56,7 +56,7 @@ Pickens__AL	19746	Alabama_US	United States	2305.415	33.296809	-88.096878
 Pike__AL	32899	Alabama_US	United States	1743.078	31.798726	-85.941997
 Randolph__AL	22913	Alabama_US	United States	1512.902	33.296475	-85.464068
 Russell__AL	52947	Alabama_US	United States	1676.219	32.289811	-85.18698
-St_Clair__AL	83593	Alabama_US	United States	1692.919	33.712963	-86.315663
+St__Clair__AL	83593	Alabama_US	United States	1692.919	33.712963	-86.315663
 Shelby__AL	195085	Alabama_US	United States	2096.661	33.262937	-86.678104
 Sumter__AL	13763	Alabama_US	United States	2365.494	32.597481	-88.200057
 Talladega__AL	82291	Alabama_US	United States	1969.184	33.369277	-86.175805
@@ -81,7 +81,6 @@ Kenai_Peninsula__AK	55400	Alaska_US	United States	64108.206	60.366373	-152.32197
 Ketchikan_Gateway__AK	13477	Alaska_US	United States	17232.647	55.449938	-131.106685
 Kodiak_Island__AK	13592	Alaska_US	United States	31136.394	57.553611	-153.630911
 Lake_and_Peninsula__AK	1631	Alaska_US	United States	85268.877	58.205065	-156.705188
-MatanuskaSusitna__AK	88995	Alaska_US	United States	65416.898	62.182174	-149.407974
 Nome__AK	9492	Alaska_US	United States	73238.698	64.783686	-164.188912
 North_Slope__AK	9430	Alaska_US	United States	245521.234	69.449343	-153.47283
 Northwest_Arctic__AK	7523	Alaska_US	United States	105539.253	67.005066	-160.021086
@@ -90,11 +89,13 @@ Prince_of_Wales_Hyder__AK	5559	Alaska_US	United States	19899.612	55.415683	-132.
 Sitka__AK	8881	Alaska_US	United States	12461.548	57.142509	-135.332624
 Skagway__AK	968	Alaska_US	United States	1201.847	59.575097	-135.335418
 SE_Fairbanks__AK	7029	Alaska_US	United States	64903.711	63.864997	-143.218628
-ValdezCordova__AK	9636	Alaska_US	United States	104480.567	61.34984	-145.023141
-Wade_Hampton__AK	7459	Alaska_US	United States	50952.705	62.283174	-163.19095
 Wrangell__AK	2369	Alaska_US	United States	8966.687	56.279121	-132.040326
 Yakutat__AK	662	Alaska_US	United States	24508.712	59.999083	-140.239593
-YukonKoyukuk__AK	5588	Alaska_US	United States	382812.22	65.376131	-151.576855
+Yukon_Koyukuk__AK	5588	376855.656	5956.564	382812.22	65.376131	-151.576855
+Chugach__AK	6734	24683.877	0	24683.877	60.543611	-145.751944
+Copper_River__AK	2764	63952.000	0	63952.000	62.304722	-145.273333
+Kusilvak__AK	7459	44240.706	6711.999	50952.705	62.283174	-163.19095
+Matanuska_Susitna__AK	88995	63734.16	1682.737	65416.898	62.182174	-149.407974
 Apache__AZ	71518	Arizona_US	United States	29055.62	35.385845	-109.493747
 Cochise__AZ	131346	Arizona_US	United States	16106.089	31.881793	-109.75412
 Coconino__AZ	134421	Arizona_US	United States	48332.653	35.829692	-111.773728
@@ -171,7 +172,7 @@ Pope__AR	61754	Arkansas_US	United States	2151.697	35.455297	-93.031535
 Prairie__AR	8715	Arkansas_US	United States	1749.833	34.828225	-91.5572
 Pulaski__AR	382748	Arkansas_US	United States	2091.839	34.773988	-92.316515
 Randolph__AR	17969	Arkansas_US	United States	1699.134	36.341299	-91.028441
-St_Francis__AR	28258	Arkansas_US	United States	1664.099	35.014438	-90.742199
+St__Francis__AR	28258	Arkansas_US	United States	1664.099	35.014438	-90.742199
 Saline__AR	107118	Arkansas_US	United States	1891.96	34.648525	-92.674463
 Scott__AR	11233	Arkansas_US	United States	2325.999	34.858869	-94.063641
 Searcy__AR	8195	Arkansas_US	United States	1731.434	35.90966	-92.699351
@@ -361,7 +362,7 @@ Madison__FL	19224	Florida_US	United States	1853.612	30.447228	-83.470437
 Manatee__FL	322833	Florida_US	United States	2312.027	27.481386	-82.365784
 Marion__FL	331298	Florida_US	United States	4306.141	29.202805	-82.0431
 Martin__FL	146318	Florida_US	United States	1949.817	27.079954	-80.398211
-MiamiDade__FL	2496435	Florida_US	United States	6296.734	25.610494	-80.499045
+Miami_Dade__FL	2496435	Florida_US	United States	6296.734	25.610494	-80.499045
 Monroe__FL	73090	Florida_US	United States	9680.143	25.601043	-81.206777
 Nassau__FL	73314	Florida_US	United States	1880.126	30.605926	-81.764929
 Okaloosa__FL	180822	Florida_US	United States	2802.57	30.665858	-86.594194
@@ -373,8 +374,8 @@ Pasco__FL	464697	Florida_US	United States	2249.285	28.302024	-82.455707
 Pinellas__FL	916542	Florida_US	United States	1575.042	27.903122	-82.739518
 Polk__FL	602095	Florida_US	United States	5207.302	27.953115	-81.692783
 Putnam__FL	74364	Florida_US	United States	2141.717	29.606006	-81.740894
-St_Johns__FL	190039	Florida_US	United States	2127.74	29.890593	-81.383914
-St_Lucie__FL	277789	Florida_US	United States	1782.188	27.380775	-80.443364
+St__Johns__FL	190039	Florida_US	United States	2127.74	29.890593	-81.383914
+St__Lucie__FL	277789	Florida_US	United States	1782.188	27.380775	-80.443364
 Santa_Rosa__FL	151372	Florida_US	United States	3040.069	30.703633	-87.014255
 Sarasota__FL	379448	Florida_US	United States	1878.632	27.184386	-82.365835
 Seminole__FL	422718	Florida_US	United States	894.308	28.690079	-81.13198
@@ -648,7 +649,7 @@ Lawrence__IL	16833	Illinois_US	United States	969.015	38.718954	-87.730221
 Lee__IL	36031	Illinois_US	United States	1887.979	41.747442	-89.299351
 Livingston__IL	38950	Illinois_US	United States	2708.939	40.894376	-88.552852
 Logan__IL	30305	Illinois_US	United States	1603.012	40.12907	-89.365308
-Donough__IL	32612	Illinois_US	United States	1528.571	40.455789	-90.677579
+McDonough__IL	32612	Illinois_US	United States	1528.571	40.455789	-90.677579
 McHenry__IL	308760	Illinois_US	United States	1581.998	42.324298	-88.452245
 McLean__IL	169572	Illinois_US	United States	3072.424	40.494559	-88.844539
 Macon__IL	110768	Illinois_US	United States	1517.383	39.860237	-88.961529
@@ -675,7 +676,7 @@ Putnam__IL	6006	Illinois_US	United States	446.057	41.19894	-89.298386
 Randolph__IL	33476	Illinois_US	United States	1546.753	38.056515	-89.82121
 Richland__IL	16233	Illinois_US	United States	937.308	38.71155	-88.085698
 Rock_Island__IL	147546	Illinois_US	United States	1168.831	41.468404	-90.572203
-St_Clair__IL	270056	Illinois_US	United States	1745.738	38.470198	-89.928546
+St__Clair__IL	270056	Illinois_US	United States	1745.738	38.470198	-89.928546
 Saline__IL	24913	Illinois_US	United States	1001.755	37.751653	-88.545031
 Sangamon__IL	197465	Illinois_US	United States	2271.47	39.756378	-89.662311
 Schuyler__IL	7544	Illinois_US	United States	1143.043	40.156905	-90.613464
@@ -766,7 +767,7 @@ Putnam__IN	37963	Indiana_US	United States	1250.167	39.665545	-86.853325
 Randolph__IN	26171	Indiana_US	United States	1174.077	40.164414	-85.005004
 Ripley__IN	28818	Indiana_US	United States	1160.474	39.10023	-85.260541
 Rush__IN	17392	Indiana_US	United States	1057.908	39.622312	-85.466527
-St_Joseph__IN	266931	Indiana_US	United States	1194.983	41.617699	-86.288159
+St__Joseph__IN	266931	Indiana_US	United States	1194.983	41.617699	-86.288159
 Scott__IN	24181	Indiana_US	United States	499.216	38.679431	-85.751898
 Shelby__IN	44436	Indiana_US	United States	1069.034	39.524135	-85.792174
 Spencer__IN	20952	Indiana_US	United States	1039.689	38.009789	-87.010645
@@ -853,7 +854,7 @@ Mahaska__IA	22381	Iowa_US	United States	1485.092	41.330797	-92.636366
 Marion__IA	33309	Iowa_US	United States	1477.612	41.331455	-93.093849
 Marshall__IA	40648	Iowa_US	United States	1484.574	42.041691	-92.981452
 Mills__IA	15059	Iowa_US	United States	1141.263	41.033703	-95.619101
-Mitchcell__IA	10776	Iowa_US	United States	1216.167	43.348564	-92.784466
+Mitchell__IA	10776	Iowa_US	United States	1216.167	43.348564	-92.784466
 Monona__IA	9243	Iowa_US	United States	1810.23	42.049432	-95.956566
 Monroe__IA	7970	Iowa_US	United States	1124.84	41.028847	-92.869642
 Montgomery__IA	10740	Iowa_US	United States	1100.816	41.021735	-95.15779
@@ -1141,7 +1142,7 @@ Jefferson__LA	432552	Louisiana_US	United States	1723.437	29.5033	-90.036231
 Jefferson_Davis__LA	31594	Louisiana_US	United States	1705.65	30.269529	-92.816221
 Lafayette__LA	221578	Louisiana_US	United States	697.247	30.206507	-92.06417
 Lafourche__LA	96318	Louisiana_US	United States	3818.438	29.491993	-90.394849
-La_Salle__LA	14890	Louisiana_US	United States	1715.591	31.680836	-92.161809
+LaSalle__LA	14890	Louisiana_US	United States	1715.591	31.680836	-92.161809
 Lincoln__LA	46735	Louisiana_US	United States	1223.704	32.601148	-92.662082
 Livingston__LA	128026	Louisiana_US	United States	1820.363	30.440419	-90.727474
 Madison__LA	12093	Louisiana_US	United States	1685.822	32.365824	-91.240729
@@ -1155,15 +1156,15 @@ Rapides__LA	131613	Louisiana_US	United States	3526.676	31.193204	-92.535953
 Red_River__LA	9091	Louisiana_US	United States	1042.066	32.101213	-93.34905
 Richland__LA	20725	Louisiana_US	United States	1462.089	32.418121	-91.758375
 Sabine__LA	24233	Louisiana_US	United States	2620.082	31.560209	-93.559228
-St_Bernard__LA	35897	Louisiana_US	United States	5589.381	29.91811	-89.263494
-St_Charles__LA	52780	Louisiana_US	United States	1063.524	29.913833	-90.359314
-St_Helena__LA	11203	Louisiana_US	United States	1060.569	30.821423	-90.70935
-St_James__LA	22102	Louisiana_US	United States	668.11	30.02482	-90.793956
-St_John_the_Baptist__LA	45924	Louisiana_US	United States	900.376	30.117471	-90.504677
-St_Landry__LA	83384	Louisiana_US	United States	2431.952	30.583441	-91.989275
-St_Martin__LA	52160	Louisiana_US	United States	2114.699	30.121433	-91.611481
-St_Mary__LA	54650	Louisiana_US	United States	2899.292	29.629349	-91.463804
-St_Tammany__LA	233740	Louisiana_US	United States	2911.635	30.410022	-89.951962
+St__Bernard__LA	35897	Louisiana_US	United States	5589.381	29.91811	-89.263494
+St__Charles__LA	52780	Louisiana_US	United States	1063.524	29.913833	-90.359314
+St__Helena__LA	11203	Louisiana_US	United States	1060.569	30.821423	-90.70935
+St__James__LA	22102	Louisiana_US	United States	668.11	30.02482	-90.793956
+St__John_the_Baptist__LA	45924	Louisiana_US	United States	900.376	30.117471	-90.504677
+St__Landry__LA	83384	Louisiana_US	United States	2431.952	30.583441	-91.989275
+St__Martin__LA	52160	Louisiana_US	United States	2114.699	30.121433	-91.611481
+St__Mary__LA	54650	Louisiana_US	United States	2899.292	29.629349	-91.463804
+St__Tammany__LA	233740	Louisiana_US	United States	2911.635	30.410022	-89.951962
 Tangipahoa__LA	121097	Louisiana_US	United States	2132.255	30.621581	-90.406633
 Tensas__LA	5252	Louisiana_US	United States	1660.676	32.001489	-91.342576
 Terrebonne__LA	111860	Louisiana_US	United States	5392.543	29.333266	-90.844191
@@ -1257,7 +1258,7 @@ Emmet__MI	32694	Michigan_US	United States	2284.362	45.590094	-84.986822
 Genesee__MI	425790	Michigan_US	United States	1682.423	43.021077	-83.706372
 Gladwin__MI	25692	Michigan_US	United States	1336.252	43.98975	-84.389816
 Gogebic__MI	16427	Michigan_US	United States	3823.712	46.488054	-89.788314
-Grand_Treverse__MI	86986	Michigan_US	United States	1557.398	44.718688	-85.553848
+Grand_Traverse__MI	86986	Michigan_US	United States	1557.398	44.718688	-85.553848
 Gratiot__MI	42476	Michigan_US	United States	1480.465	43.292326	-84.60469
 Hillsdale__MI	46688	Michigan_US	United States	1572.139	41.864475	-84.642409
 Houghton__MI	36628	Michigan_US	United States	3888.869	46.998305	-88.652066
@@ -1303,8 +1304,8 @@ Ottawa__MI	263801	Michigan_US	United States	4225.331	42.942346	-86.655342
 Presque_Isle__MI	13376	Michigan_US	United States	6663.408	45.489515	-83.384019
 Roscommon__MI	24449	Michigan_US	United States	1502.274	44.339517	-84.611272
 Saginaw__MI	200169	Michigan_US	United States	2113.341	43.328267	-84.05541
-St_Clair__MI	163040	Michigan_US	United States	2166.542	42.928804	-82.668914
-St_Joseph__MI	61295	Michigan_US	United States	1349.467	41.911488	-85.52287
+St__Clair__MI	163040	Michigan_US	United States	2166.542	42.928804	-82.668914
+St__Joseph__MI	61295	Michigan_US	United States	1349.467	41.911488	-85.52287
 Sanilac__MI	43114	Michigan_US	United States	4117.93	43.449155	-82.642815
 Schoolcraft__MI	8485	Michigan_US	United States	4879.485	46.020758	-86.199352
 Shiawassee__MI	70648	Michigan_US	United States	1401.047	42.951545	-84.146352
@@ -1381,7 +1382,7 @@ Renville__MN	15730	Minnesota_US	United States	2556.567	44.723697	-94.955617
 Rice__MN	64142	Minnesota_US	United States	1336.266	44.350943	-93.298503
 Rock__MN	9687	Minnesota_US	United States	1250.251	43.669587	-96.263238
 Roseau__MN	15629	Minnesota_US	United States	4346.355	48.761066	-95.82153
-St_Louis__MN	200226	Minnesota_US	United States	17766.029	47.583852	-92.463645
+St__Louis__MN	200226	Minnesota_US	United States	17766.029	47.583852	-92.463645
 Scott__MN	129928	Minnesota_US	United States	954.107	44.651932	-93.534553
 Sherburne__MN	88499	Minnesota_US	United States	1168.197	45.443171	-93.775092
 Sibley__MN	15226	Minnesota_US	United States	1555.342	44.575734	-94.230123
@@ -1573,11 +1574,11 @@ Randolph__MO	25414	Missouri_US	United States	1263.461	39.441601	-92.492725
 Ray__MO	23494	Missouri_US	United States	1486.488	39.308401	-93.995746
 Reynolds__MO	6696	Missouri_US	United States	2109.32	37.360857	-90.969516
 Ripley__MO	14100	Missouri_US	United States	1635.942	36.648902	-90.86706
-St_Charles__MO	360485	Missouri_US	United States	1534.846	38.781102	-90.674915
-St_Clair__MO	9805	Missouri_US	United States	1818.304	38.039069	-93.773077
+St__Charles__MO	360485	Missouri_US	United States	1534.846	38.781102	-90.674915
+St__Clair__MO	9805	Missouri_US	United States	1818.304	38.039069	-93.773077
 Sainte_Genevieve__MO	18145	Missouri_US	United States	1312.54	37.89018	-90.18117
-St_Francois__MO	65359	Missouri_US	United States	1177.598	37.810707	-90.473868
-St_Louis_Co__MO	998954	Missouri_US	United States	1354.61	38.640702	-90.445954
+St__Francois__MO	65359	Missouri_US	United States	1177.598	37.810707	-90.473868
+St__Louis_Co___MO	998954	Missouri_US	United States	1354.61	38.640702	-90.445954
 Saline__MO	23370	Missouri_US	United States	1986.304	39.13584	-93.204164
 Schuyler__MO	4431	Missouri_US	United States	798.128	40.469361	-92.519016
 Scotland__MO	4843	Missouri_US	United States	1137.77	40.447686	-92.142824
@@ -1596,7 +1597,7 @@ Wayne__MO	13521	Missouri_US	United States	2004.817	37.113825	-90.460868
 Webster__MO	36202	Missouri_US	United States	1537.841	37.280804	-92.87608
 Worth__MO	2171	Missouri_US	United States	691.059	40.480482	-94.419129
 Wright__MO	18815	Missouri_US	United States	1769.313	37.267636	-92.48001
-St_Louis__MO	319294	Missouri_US	United States	171.026	38.635699	-90.244582
+St__Louis__MO	319294	Missouri_US	United States	171.026	38.635699	-90.244582
 Beaverhead__MT	9246	Montana_US	United States	14431.132	45.133863	-112.892869
 Big_Horn__MT	12865	Montana_US	United States	12987.782	45.407869	-107.518163
 Blaine__MT	6491	Montana_US	United States	10978.38	48.428282	-108.967648
@@ -1804,7 +1805,7 @@ De_Baca__NM	2022	New_Mexico_US	United States	6044.726	34.351429	-104.401527
 Dona_Ana__NM	209233	New_Mexico_US	United States	9879.198	32.350912	-106.832182
 Eddy__NM	53829	New_Mexico_US	United States	10871.532	32.457858	-104.306471
 Grant__NM	29514	New_Mexico_US	United States	10275.911	32.732087	-108.381504
-Guadelupe__NM	4687	New_Mexico_US	United States	7851.8	34.869782	-104.784968
+Guadalupe__NM	4687	New_Mexico_US	United States	7851.8	34.869782	-104.784968
 Harding__NM	695	New_Mexico_US	United States	5506.023	35.863152	-103.829931
 Hidalgo__NM	4894	New_Mexico_US	United States	8925.082	31.899658	-108.745729
 Lea__NM	64727	New_Mexico_US	United States	11380.929	32.795687	-103.413271
@@ -1860,7 +1861,7 @@ Nassau__NY	1339532	New_York_US	United States	1173.872	40.729687	-73.589384
 New_York__NY	1585873	New_York_US	United States	86.999	40.776557	-73.970174
 Niagara__NY	216469	New_York_US	United States	2951.73	43.456731	-78.792143
 Oneida__NY	234878	New_York_US	United States	3257.314	43.242727	-75.434282
-Onodaga__NY	467026	New_York_US	United States	2086.541	43.00653	-76.196117
+Onondaga__NY	467026	New_York_US	United States	2086.541	43.00653	-76.196117
 Ontario__NY	107931	New_York_US	United States	1715.936	42.856695	-77.303277
 Orange__NY	372813	New_York_US	United States	2172.079	41.40241	-74.306252
 Orleans__NY	42883	New_York_US	United States	2117.113	43.502287	-78.229726
@@ -1871,7 +1872,7 @@ Queens__NY	2230722	New_York_US	United States	461.555	40.658557	-73.837929
 Rensselaer__NY	159429	New_York_US	United States	1723.361	42.710421	-73.513845
 Richmond__NY	468730	New_York_US	United States	264.933	40.563855	-74.137063
 Rockland__NY	311687	New_York_US	United States	516.293	41.154785	-74.024772
-St_Lawrence__NY	111944	New_York_US	United States	7307.494	44.488113	-75.074311
+St__Lawrence__NY	111944	New_York_US	United States	7307.494	44.488113	-75.074311
 Saratoga__NY	219607	New_York_US	United States	2185.452	43.106135	-73.855387
 Schenectady__NY	154727	New_York_US	United States	542.308	42.817542	-74.043583
 Schoharie__NY	32749	New_York_US	United States	1622.181	42.591294	-74.438172
@@ -2385,7 +2386,7 @@ Douglas__SD	3002	South_Dakota_US	United States	1123.195	43.391506	-98.358433
 Edmunds__SD	4071	South_Dakota_US	United States	2981.251	45.41168	-99.205362
 Fall_River__SD	7094	South_Dakota_US	United States	4530.27	43.221504	-103.512102
 Faulk__SD	2364	South_Dakota_US	United States	2605.425	45.065476	-99.153564
-Grand__SD	7356	South_Dakota_US	United States	1780.714	45.172637	-96.772261
+Grant__SD	7356	South_Dakota_US	United States	1780.714	45.172637	-96.772261
 Gregory__SD	4271	South_Dakota_US	United States	2728.626	43.179094	-99.202158
 Haakon__SD	1937	South_Dakota_US	United States	4731.712	44.284312	-101.59179
 Hamlin__SD	5903	South_Dakota_US	United States	1393.595	44.680619	-97.178598
@@ -2398,7 +2399,7 @@ Hyde__SD	1420	South_Dakota_US	United States	2243.289	44.537301	-99.492148
 Jackson__SD	3031	South_Dakota_US	United States	4846.612	43.677294	-101.626455
 Jerauld__SD	2071	South_Dakota_US	United States	1379.606	44.063416	-98.623188
 Jones__SD	1006	South_Dakota_US	United States	2514.601	43.95199	-100.686139
-Kingsburg__SD	5148	South_Dakota_US	United States	2237.136	44.362969	-97.499313
+Kingsbury__SD	5148	South_Dakota_US	United States	2237.136	44.362969	-97.499313
 Lake__SD	11200	South_Dakota_US	United States	1489.663	44.02845	-97.123223
 Lawrence__SD	24097	South_Dakota_US	United States	2072.795	44.353669	-103.796528
 Lincoln__SD	44828	South_Dakota_US	United States	1496.362	43.27942	-96.722286
@@ -2416,7 +2417,7 @@ Perkins__SD	2982	South_Dakota_US	United States	7485.044	45.483387	-102.467995
 Potter__SD	2329	South_Dakota_US	United States	2327.534	45.064276	-99.949631
 Roberts__SD	10149	South_Dakota_US	United States	2941.631	45.623397	-96.947551
 Sanborn__SD	2355	South_Dakota_US	United States	1477.526	44.021032	-98.092105
-Shannon__SD	13586	South_Dakota_US	United States	5430.296	43.341937	-102.55948
+Oglala_Lakota__SD	13586	South_Dakota_US	United States	5430.296	43.341937	-102.55948
 Spink__SD	6415	South_Dakota_US	United States	3910.21	44.931034	-98.339644
 Stanley__SD	2966	South_Dakota_US	United States	3929.446	44.415547	-100.749163
 Sully__SD	1373	South_Dakota_US	United States	2772.029	44.722325	-100.131399
@@ -2820,7 +2821,7 @@ Washington__VT	59534	Vermont_US	United States	1801.139	44.274953	-72.609475
 Windham__VT	44513	Vermont_US	United States	2066.987	42.999143	-72.716335
 Windsor__VT	56670	Vermont_US	United States	2529.859	43.588143	-72.591515
 Accomack__VA	33164	Virginia_US	United States	3392.983	37.765944	-75.757807
-Albermarle__VA	98970	Virginia_US	United States	1880.636	38.024184	-78.553506
+Albemarle__VA	98970	Virginia_US	United States	1880.636	38.024184	-78.553506
 Alleghany__VA	16250	Virginia_US	United States	1162.263	37.787905	-80.008669
 Amelia__VA	12690	Virginia_US	United States	928.567	37.336131	-77.973218
 Amherst__VA	32353	Virginia_US	United States	1240.215	37.630362	-79.147848
@@ -2828,7 +2829,7 @@ Appomattox__VA	14973	Virginia_US	United States	866.949	37.370725	-78.81094
 Arlington__VA	207627	Virginia_US	United States	67.518	38.878337	-77.100703
 Augusta__VA	73750	Virginia_US	United States	2514.504	38.167807	-79.146682
 Bath__VA	4731	Virginia_US	United States	1384.563	38.068988	-79.732898
-Bedford_Co__VA	68676	Virginia_US	United States	1992.359	37.312408	-79.527947
+Bedford_Co___VA	74898	Virginia_US	United States	2010.234	37.312408	-79.527947
 Bland__VA	6824	Virginia_US	United States	929.101	37.130612	-81.125853
 Botetourt__VA	33148	Virginia_US	United States	1413.902	37.553193	-79.805318
 Brunswick__VA	17434	Virginia_US	United States	1474.7	36.764531	-77.860916
@@ -2847,11 +2848,11 @@ Cumberland__VA	10052	Virginia_US	United States	776.351	37.520189	-78.252836
 Dickenson__VA	15903	Virginia_US	United States	864.182	37.137081	-82.349208
 Dinwiddie__VA	28001	Virginia_US	United States	1313.621	37.073498	-77.635492
 Essex__VA	11151	Virginia_US	United States	740.738	37.93948	-76.941871
-Fairfax_Co__VA	1081726	Virginia_US	United States	1052.172	38.833743	-77.276117
+Fairfax_Co___VA	1081726	Virginia_US	United States	1052.172	38.833743	-77.276117
 Fauquier__VA	65203	Virginia_US	United States	1686.665	38.744103	-77.821585
 Floyd__VA	15279	Virginia_US	United States	987.541	36.931438	-80.350309
 Fluvanna__VA	25691	Virginia_US	United States	751.481	37.830606	-78.284445
-Franklin_Co__VA	56159	Virginia_US	United States	1842.902	36.99235	-79.883959
+Franklin_Co___VA	56159	Virginia_US	United States	1842.902	36.99235	-79.883959
 Frederick__VA	78305	Virginia_US	United States	1076.158	39.203637	-78.263916
 Giles__VA	17286	Virginia_US	United States	933.486	37.31193	-80.717178
 Gloucester__VA	36858	Virginia_US	United States	745.866	37.403541	-76.523505
@@ -2894,8 +2895,8 @@ Prince_George__VA	35725	Virginia_US	United States	729.964	37.187326	-77.220993
 Prince_William__VA	402002	Virginia_US	United States	902.546	38.702332	-77.478887
 Pulaski__VA	34872	Virginia_US	United States	853.644	37.063385	-80.713444
 Rappahannock__VA	7373	Virginia_US	United States	691.594	38.684522	-78.168824
-Richmond_Co__VA	9254	Virginia_US	United States	560.363	37.942894	-76.730561
-Roanoke_Co__VA	92376	Virginia_US	United States	650.725	37.331077	-80.19011
+Richmond_Co___VA	9254	Virginia_US	United States	560.363	37.942894	-76.730561
+Roanoke_Co___VA	92376	Virginia_US	United States	650.725	37.331077	-80.19011
 Rockbridge__VA	22307	Virginia_US	United States	1556.51	37.814517	-79.447754
 Rockingham__VA	76314	Virginia_US	United States	2210.182	38.511257	-78.876307
 Russell__VA	28897	Virginia_US	United States	1234.787	36.93342	-82.095934
@@ -2915,7 +2916,6 @@ Wise__VA	41452	Virginia_US	United States	1049.538	36.974561	-82.62156
 Wythe__VA	29235	Virginia_US	United States	1203.43	36.901471	-81.084209
 York__VA	65464	Virginia_US	United States	556.74	37.220914	-76.395533
 Alexandria__VA	139966	Virginia_US	United States	40.06	38.818343	-77.082026
-Bedford__VA	6222	Virginia_US	United States	17.875	37.338156	-79.520705
 Bristol__VA	17835	Virginia_US	United States	34.067	36.616954	-82.157564
 Buena_Vista__VA	6650	Virginia_US	United States	17.586	37.731663	-79.356375
 Charlottesville__VA	43475	Virginia_US	United States	26.57	38.037658	-78.485381
@@ -3102,7 +3102,7 @@ Racine__WI	195408	Wisconsin_US	United States	2051.572	42.754075	-87.414676
 Richland__WI	18021	Wisconsin_US	United States	1526.277	43.376199	-90.435693
 Rock__WI	160331	Wisconsin_US	United States	1880.606	42.669931	-89.075119
 Rusk__WI	14755	Wisconsin_US	United States	2410.975	45.472734	-91.136745
-St_Croix__WI	84345	Wisconsin_US	United States	1905.413	45.028959	-92.447284
+St__Croix__WI	84345	Wisconsin_US	United States	1905.413	45.028959	-92.447284
 Sauk__WI	61976	Wisconsin_US	United States	2197.907	43.427998	-89.943329
 Sawyer__WI	16557	Wisconsin_US	United States	3497.17	45.864913	-91.14713
 Shawano__WI	41949	Wisconsin_US	United States	2355.522	44.789641	-88.755813
@@ -3514,6 +3514,7 @@ Central_Eleuthera_BS	1500	NA	Bahamas	20	25.133333	-76
 Crooked_Island_and_Long_Cay_BS	330	NA	Bahamas	148	22.75	-74.216667
 East_Grand_Bahama_BS	12423	NA	Bahamas	686	26.666667	-78.133333
 Exuma_BS	6928	NA	Bahamas	250	23.533333	-75.833333
+Grand_Cay_BS	383	NA	Bahamas	2.5	27.2239	-78.3239
 Inagua_BS	913	NA	Bahamas	1679	21.217778	-73.251389
 Long_Island_BS	3094	NA	Bahamas	596	23.176499	-75.096212
 Mangrove_Cay_BS	892	NA	Bahamas	250	24.166667	-77.783333
@@ -7424,7 +7425,7 @@ Coffs Harbour City of_NW	72944	New_South_Wales_AU	Australia	1175	-30.316667	153.
 Kempsey Shire_NW	28885	New_South_Wales_AU	Australia	3380	-31.083333	152.833333
 Nambucca Shire_NW	19212	New_South_Wales_AU	Australia	1491	-30.716667	152.916667
 Port Macquarie_Hastings Council_NW	78539	New_South_Wales_AU	Australia	3686	-31.433333	152.9
-Lord Howe Island_NW	382	New_South_Wales_AU	Australia	15	-31.554167	159.085
+Lord Howe Island_NW	0	New_South_Wales_AU	Australia	0	-31.554167	159.085
 Albury City of_NW	51076	New_South_Wales_AU	Australia	164.25	-36.05	146.95
 Balranald Shire_NW	2287	New_South_Wales_AU	Australia	21693	-34.616667	143.566667
 Berrigan Shire_NW	8462	New_South_Wales_AU	Australia	2066	-35.633333	145.8
