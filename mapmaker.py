@@ -90,12 +90,12 @@ def main(argv):
       elif opt in ("-i", "--ifile"):
          input = open("place_lists/" + arg)
       elif opt in ("-g", "--gfile"):
-         guide = open("output_files/" + arg)
+         guide = open("center_lists/" + arg)
       elif opt in ("-o", "--ofile"):
-         output = open("center_lists/" + arg)
+         output = open("output_files/" + arg)
       elif opt in ("-r", "--rfile"):
          isresults = True
-         results = open("result_files" + arg)
+         results = open("result_files/" + arg)
 
     #populate lists of territories and places
     input.readline()
@@ -135,8 +135,10 @@ def main(argv):
             terrs[words[1]].absorb(terrs[words[0]])
     
     #print out the mapchart file
+    if printstuff:
+        print("Teams with no territory:")
     for t in terrs:
-        if len(terrs[t].places) == 0:
+        if printstuff and (len(terrs[t].places) == 0):
             print(terrs[t].name)
         else:
             strs.append(terrs[t].__str__())
