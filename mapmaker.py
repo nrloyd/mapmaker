@@ -67,6 +67,22 @@ def open_webpage(path = "usa-counties.html"):
     urlpath = "https://mapchart.net/" + path
     webbrowser.open(urlpath)
 
+def distribute_places_by_closest(input, terrs):
+    input.readline()
+    for line in input:
+        words = line.split("\t")
+        lat = float(words[5])
+        long = float(words[6])
+        leastdist = 100000
+        closestcenter = Territory()
+        #add place to the closest territory
+        for t in terrs:
+            dist = greatcircledistance(float(lat), float(long), terrs[t].lat, terrs[t].long)
+            if dist < leastdist:
+                leastdist = dist
+                closestcenter = terrs[t]
+        closestcenter.addplace(words[0], int(words[1]), float(words[4]))
+
 def main(argv):
 
     #open all the files
@@ -97,35 +113,24 @@ def main(argv):
          isresults = True
          results = open("result_files/" + arg)
 
-    #populate lists of territories and places
-    input.readline()
-    terrs = {}
+    #populate list of territory centers
     centers = []
     for ln in guide:
-        words = ln.split("\t")
-        centers.append(words)
+        centers.append(ln.split("\t"))
+    
+    #populate list of territories
+    terrs = {}
     i = 0
     colorset = set()
     for word in centers:
         if word[3] in colorset:
-            print(word[3] + "\n")
+            print("duplicate color: " + word[3] + "\n")
         colorset.add(word[3])
         terrs[word[0]] = Territory(name=word[0], boxnumber=i, color=word[3], lat=float(word[1]), long=float(word[2]))
         i += 1
-    for line in input:
-        words = line.split("\t")
-        lat = float(words[5])
-        long = float(words[6])
-        leastdist = 100000
-        closestcenter = Territory()
-        #add place to the closest territory
-        for t in terrs:
-            dist = greatcircledistance(float(lat), float(long), terrs[t].lat, terrs[t].long)
-            if dist < leastdist:
-                leastdist = dist
-                closestcenter = terrs[t]
-        closestcenter.addplace(words[0], int(words[1]), float(words[4]))
-    strs = []
+
+    #populate list of places
+    distribute_places_by_closest(input, terrs)
     
     #transfer territories from results
     if isresults:
@@ -134,6 +139,7 @@ def main(argv):
             words[1] = words[1].rstrip()
             terrs[words[1]].absorb(terrs[words[0]])
     
+    strs = []
     #print out the mapchart file
     if printstuff:
         print("Teams with no territory:")
@@ -142,13 +148,10 @@ def main(argv):
             print(terrs[t].name)
         else:
             strs.append(terrs[t].__str__())
-    toprint = ('{"groups":{' + ','.join(strs) + '},"title":"","hidden":[],"borders":"564d4d"}')  
-    toprint = toprint.replace("Lake__FL","Lake_FL")
-    toprint = toprint.replace("Lyon__NV","Lyon_NV")
-    toprint = toprint.replace("Summit__UT","Summit_UT")
-    toprint = toprint.replace("Chittenden__VT","Chittenden_VT")
+    toprint = ('{"groups":{' + ','.join(strs) + '},"title":"","hidden":[],"borders":"564d4d"}')
     output.write(toprint)
 
+    #print summary to console
     if printstuff:
         areatup = []
         placetup = []
@@ -160,20 +163,20 @@ def main(argv):
                 placetup.append((terrs[t].name, len(terrs[t].places)))
                 poptup.append((terrs[t].name, terrs[t].population))
                 terrtup.append((terrs[t].name, terrs[t].numterritories))
-        print("Teams by land area:")
+        print("Territories by land area:")
         areatup = sorted(areatup, key = lambda tup: tup[1], reverse = True)
         for x in areatup:
             print(x[0], "%.3f" % x[1])
-        print("Teams by number of places:")
+        print("Territories by number of places:")
         placetup = sorted(placetup, key = lambda tup: tup[1], reverse = True)
         for x in placetup:
             print(x[0], x[1])
-        print("Teams by population:")
+        print("Territories by population:")
         poptup = sorted(poptup, key = lambda tup: tup[1], reverse = True)
         for x in poptup:
               print(x[0], x[1])
         if(isresults):
-              print("Teams by number of territories:")
+              print("Territories by number of territories:")
               terrtup = sorted(terrtup, key = lambda tup: tup[1], reverse = True)
               for x in terrtup:
                   print(x[0], x[1])
